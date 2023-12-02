@@ -1,0 +1,14 @@
+
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('/img/fondo.jpg');  /* Cambia 'background-image.jpg' por la ruta correcta de tu imagen */
+    background-size: cover;
+    background-position: center; 
+}
+.login-form{
+    width: 250px;
+    text-align: center;
+}
